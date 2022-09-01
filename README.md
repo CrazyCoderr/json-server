@@ -1,21 +1,3 @@
-1. copy all files in the *build* folder of my react application  https://github.com/twjeric/Coursera-React-Redux-HKUST into the *puclic* folder in this repo
-
-2. deploy to heroku
-
-   ```bash
-   heroku login
-   git add .
-   git commit -m "add files"
-   heroku create coursera-react-hkust-server
-   git push -f heroku master
-   heroku ps:scale web=1
-   heroku open
-   ```
-
-3. deployed to https://coursera-react-hkust-server.herokuapp.com/
-
-
-
 # Deploy `json-server` to `{{ free hosting site }}`
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
