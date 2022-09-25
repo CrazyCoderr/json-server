@@ -254,13 +254,13 @@
   ],
   "feedback": [
     {
-      "firstname": "fdas",
-      "lastname": "afds",
-      "telnum": "134113",
-      "email": "dafdads@daffas.dfdafd",
+      "firstname": "Md. Suhail",
+      "lastname": "Arif",
+      "telnum": "1234567890",
+      "email": "suhail@confussion.com",
       "agree": true,
       "contactType": "Email",
-      "message": "afadsfds",
+      "message": "test",
       "date": "2017-12-04T09:41:49.890Z",
       "id": 1
     }
